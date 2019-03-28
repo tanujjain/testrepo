@@ -222,5 +222,4 @@ venv.bak/
 # End of https://www.gitignore.io/api/linux,macos,python,pycharm
 
 # Customized
-images_unz
-Visualization.ipynb
+notebooks_old
